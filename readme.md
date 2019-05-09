@@ -6,3 +6,5 @@ So I have decided to help other students too by sharing that code, so that when 
 But as a responible programmer i would still suggest you all to create your own codes:grimacing: and be a good developer...:wink:
  
  It is a very simple and easy to understand code written in C.
+
+In case you find any error or bug, feel free to commit the changes, I'll merge them.
