@@ -3,7 +3,7 @@ Due to lack of time I wished to search that program online and copy that.:disapp
 So I decided to write it on my own. :grin:
 Gladly I was able to successfully write that program of Balancing Brackets.:bowtie:
 So I have decided to help other students too by sharing that code, so that when in hurry they can copy that code. :innocent:
-But as a responible programmer i would still suggest you all to create your own codes:grimacing: and be a good developer...:wink:
+But as a responsible programmer i would still suggest you all to create your own codes:grimacing: and be a good developer...:wink:
  
  It is a very simple and easy to understand code written in C.
 
